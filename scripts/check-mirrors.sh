@@ -1,6 +1,8 @@
 #!/bin/bash
+
 rm live.txt &> /dev/null
 rm dead.txt &> /dev/null
+
 cat mirrors.txt | while read _host 
 do
     if ping -c 3 "$_host" &> /dev/null; then

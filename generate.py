@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 from scripts import MfoParser
 
 parser = MfoParser.MfoParser(

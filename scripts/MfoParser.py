@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 import idna.codec
 import re
 import sys
