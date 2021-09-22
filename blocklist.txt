@@ -1,5 +1,5 @@
 ! Title: Microfinancing Organizations Blocklist for AdGuard Home
-! Updated: 2021-09-22T00:30:01+03:00
+! Updated: 2021-09-22T15:00:01+03:00
 ! Expires: 30 days
 ! Homepage: https://github.com/Habetdin/AGH_MFO_list
 ! License: The Unlicense
@@ -417,7 +417,8 @@
 ||kfpp.ru^
 ||kiberzaimy.ru^
 ||kirovcredit.ru^
-||kirsfond.wixset.com^
+||kirsfond.wix.com^
+||kirsfond.wixsite.com^
 ||knopkadengi.ru^
 ||kombodrayv.ru^
 ||komfort-zaim.ru^
@@ -497,6 +498,7 @@
 ||mfo-srochnodengi.1c-umi.ru^
 ||mfo-srochnodengi.umi.ru^
 ||mfo-urist.nethouse.ru^
+||mfo-urist.ru^
 ||mfo24.com^
 ||mfoagat.ru^
 ||mfobrilliant.ru^

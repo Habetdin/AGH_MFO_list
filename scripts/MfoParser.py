@@ -22,8 +22,8 @@ class MfoParser:
             'fmoo.msb-orel.ru': 'msb-orel.ru',
             'fond.udbiz.ru': 'udbiz.ru',
             'gatchina.813.ru': '813.ru',
+            'kirsfond.wixset.com': 'kirsfond.wixsite.com',
             'lk.udbiz.ru': 'udbiz.ru',
-            'mzaimn.wix.com': 'mzaimn.wixsite.com',
             'new.vv174.ru': 'vv174.ru',
             'nn.ketfinans.ru': 'ketfinans.ru',
             'v.credit.ru': 'v.credit',
@@ -32,7 +32,6 @@ class MfoParser:
 
         self.known_domains = [
             'finx.com.ru',
-            'kirsfond.wixset.com',
             'moe.ru.com',
             'бц.подосиновец.рф',
         ]
