@@ -1,5 +1,5 @@
 ! Title: Microfinancing Organizations Blocklist for AdGuard Home
-! Updated: 2021-09-22T15:00:01+03:00
+! Updated: 2021-09-24T20:33:33+03:00
 ! Expires: 30 days
 ! Homepage: https://github.com/Habetdin/AGH_MFO_list
 ! License: The Unlicense
@@ -1087,6 +1087,5 @@
 ||zaymsib.ru^
 ||zaymvklik.ru^
 ||zaymych.ru^
-||zimadm.ru^
 ||zolotoff-online.ru^
 ||zzmo.ru^
