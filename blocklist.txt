@@ -1,5 +1,5 @@
 ! Title: Microfinancing Organizations Blocklist for AdGuard Home
-! Updated: 2021-09-24T20:33:33+03:00
+! Updated: 2021-10-11T19:40:46+03:00
 ! Expires: 30 days
 ! Homepage: https://github.com/Habetdin/AGH_MFO_list
 ! License: The Unlicense
@@ -111,6 +111,7 @@
 ||cash-u.com^
 ||cashdrive.ru^
 ||cashmagnit.ru^
+||cashmotor.ru^
 ||cashpoint-kredit.ru^
 ||cashtoyou.ru^
 ||cashzaem.ru^
@@ -269,6 +270,7 @@
 ||fin-liberty.ru^
 ||fin-status.ru^
 ||finance-kredit.ru^
+||financeexchange.ru^
 ||financegarant30.ru^
 ||financera.ru^
 ||financialdream.ru^
@@ -414,8 +416,6 @@
 ||kassakama.ru^
 ||kassaone.ru^
 ||ketfinans.ru^
-||kfpp.ru^
-||kiberzaimy.ru^
 ||kirovcredit.ru^
 ||kirsfond.wix.com^
 ||kirsfond.wixsite.com^
@@ -534,7 +534,6 @@
 ||migcredit.ru^
 ||migomdengirb.ru^
 ||mik-consulting.ru^
-||mikro-kapital.ru^
 ||mikrofinans31.ru^
 ||mikrofinrk.ru^
 ||misterzaimov.ru^
@@ -645,6 +644,7 @@
 ||money-the-all.ucoz.ru^
 ||moneyday.su^
 ||moneyfaktura.ru^
+||moneykapital.ru^
 ||moneyman.ru^
 ||moneymet.ru^
 ||moneyqlo.ru^
@@ -688,6 +688,7 @@
 ||oneclickmoney.ru^
 ||oniks-fin.ru^
 ||online-vychet.ru^
+||online-zaymy.ru^
 ||ooo-dvk.ru^
 ||ooocgk.ru^
 ||ooocmf.ru^
@@ -803,6 +804,7 @@
 ||souz-5.ru^
 ||souzmf.ru^
 ||souzshubtorg.com^
+||specialmoney.ru^
 ||spfinans.ru^
 ||sro-mfo.ru^
 ||srochnodengi.ru^
@@ -818,7 +820,6 @@
 ||tac35.ru^
 ||tagfond.ru^
 ||tamfinans.ru^
-||tdengi.com^
 ||tdk70.ru^
 ||teempton.ru^
 ||time-invest.ru^
@@ -917,7 +918,6 @@
 ||xn----7sbbngcm2be.xn--p1ai^
 ||xn----7sbbofnpybcjx0mg.xn--p1ai^
 ||xn----7sbbzls4ci4d.xn--p1ai^
-||xn----7sbeqahfiadrrs3b.xn--p1ai^
 ||xn----7sbhredffenfuhti6o.xn--p1ai^
 ||xn----7sbkddcrfusde8j9bu.xn--p1ai^
 ||xn----7sbqamwie8amr.xn--p1ai^
@@ -940,6 +940,7 @@
 ||xn----htbdkoeov3a.xn--p1ai^
 ||xn---2012-3ve2cr1a4m.xn--p1ai^
 ||xn---24-5cd8anv.xn--p1ai^
+||xn---24-9cdulgg0aog6b.xn--p1ai^
 ||xn---56-6cddrxod4apz7l.xn--p1ai^
 ||xn--04-9kcqjffxnf3b.xn--p1ai^
 ||xn--1-7sba2bxba.xn--p1ai^
@@ -978,6 +979,7 @@
 ||xn--80aapjmkfb3ahqn.xn--p1ai^
 ||xn--80aatbecddxe.xn--p1ai^
 ||xn--80aatjpg3an.xn--p1ai^
+||xn--80aaucis1b0b.xn--p1ai^
 ||xn--80aaycnci.xn--p1ai^
 ||xn--80aaycphl9b.xn--p1ai^
 ||xn--80aayogvhn.xn--p1ai^
@@ -1027,15 +1029,17 @@
 ||xn--c1abcbqzddaaaxm0gxcua.xn--p1ai^
 ||xn--c1abdbalf9addlw3g3ck2c.xn--p1ai^
 ||xn--c1abdnxcgbpj2euc.xn--p1ai^
-||xn--c1abdnxiagjll7i.xn--p1ai^
 ||xn--c1ajbkjgb7b2g.xn--p1ai^
 ||xn--d1abaandeix8aht.xn--p1ai^
+||xn--d1abanh2ajeq8a.xn--p1ai^
 ||xn--d1abkfa0br6b5b.xn--p1ai^
+||xn--d1aboxbq.xn--p1ai^
 ||xn--d1aihlo.xn--p1ai^
 ||xn--d1arcgaz.xn--p1ai^
 ||xn--e1aaalyptai8b.xn--p1ai^
 ||xn--h1aahk7ar.xn--p1ai^
 ||xn--j1aegx.xn--p1ai^
+||xn--j1akas.xn--p1ai^
 ||yunionfinkom.ru^
 ||zabbusiness.ru^
 ||zabinvest.ru^
@@ -1067,7 +1071,6 @@
 ||zaimi35.ru^
 ||zaimpartner.ru^
 ||zaimpts68.ru^
-||zaimrm.blogspot.com^
 ||zaimsakh.com^
 ||zaimy-pts.ru^
 ||zaimy-reshenie.ru^
