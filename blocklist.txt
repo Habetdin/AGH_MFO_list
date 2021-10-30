@@ -1,5 +1,5 @@
 ! Title: Microfinancing Organizations Blocklist for AdGuard Home
-! Updated: 2021-10-17T14:57:00+03:00
+! Updated: 2021-10-30T21:59:50+03:00
 ! Expires: 30 days
 ! Homepage: https://github.com/Habetdin/AGH_MFO_list
 ! License: The Unlicense
@@ -40,6 +40,7 @@
 ||altay-zaim.ru^
 ||alter-finance.ru^
 ||altfin24.ru^
+||amigo-zaym.ru^
 ||amigozaim.ru^
 ||ankfinans.ru^
 ||ante-invest.ru^
@@ -78,6 +79,7 @@
 ||baibol.ru^
 ||bashinvest.net^
 ||bd59.ru^
+||belkacash.ru^
 ||belkacredit.ru^
 ||bereg-zaimov.ru^
 ||beri-dengi.net^
@@ -204,6 +206,7 @@
 ||dengisrazy.ru^
 ||dengivdolg.ru^
 ||dengivdolgkmv.ru^
+||dengivmig.ru^
 ||dengivp.ru^
 ||dengivsem25.com^
 ||dengizdes22.ru^
@@ -234,7 +237,6 @@
 ||dvmcredit.ru^
 ||dzaim.ru^
 ||dzprazvitie3.ru^
-||e-f.online^
 ||e-zaim.com^
 ||eastp.info^
 ||ebabos.ru^
@@ -267,7 +269,6 @@
 ||fgr35.ru^
 ||fin-help.group^
 ||fin-kredit74.ru^
-||fin-liberty.ru^
 ||fin-status.ru^
 ||finance-kredit.ru^
 ||financeexchange.ru^
@@ -298,7 +299,6 @@
 ||finregions.ru^
 ||finrox.ru^
 ||finroznica.ru^
-||finstandart.su^
 ||finterritory.ru^
 ||finuslovia.ru^
 ||finx.com.ru^
@@ -343,7 +343,6 @@
 ||fpprt.ru^
 ||fpptuva.ru^
 ||freecash74.ru^
-||freos.ru^
 ||frmsp.ru^
 ||frp35.ru^
 ||frp75.ru^
@@ -364,7 +363,6 @@
 ||gfoo.biz^
 ||gfpp-kaluga.ru^
 ||gfso.ru^
-||glavcred.com^
 ||glavfinans.ru^
 ||glavfinans.su^
 ||glavpotrebcredit.ru^
@@ -478,8 +476,6 @@
 ||mf-chr.ru^
 ||mfbg.ru^
 ||mfc-microdengi.ru^
-||mfi-denist.ru^
-||mfi-finanbi.ru^
 ||mfi-ultradengi.ru^
 ||mfk-ariadna.ru^
 ||mfk-daglizing.ru^
@@ -549,7 +545,9 @@
 ||mkk-bmf.ru^
 ||mkk-darson.ru^
 ||mkk-demetra.ru^
+||mkk-ef.ru^
 ||mkk-finterika.ru^
+||mkk-gkk.ru^
 ||mkk-granit.com^
 ||mkk-grano.ru^
 ||mkk-greenfinance.ru^
@@ -923,6 +921,7 @@
 ||xn----7sbkddcrfusde8j9bu.xn--p1ai^
 ||xn----7sbqamwie8amr.xn--p1ai^
 ||xn----8sba3ardlrreeeo.xn--p1ai^
+||xn----8sbabu5a3bfga.xn--p1ai^
 ||xn----8sbafc1ah5aoc5b2i.xn--p1ai^
 ||xn----8sbafcpeubc0cebdebh9ar9c.xn--p1ai^
 ||xn----8sbeefgpr1aej8meg.xn--p1ai^
@@ -1038,6 +1037,7 @@
 ||xn--d1aboxbq.xn--p1ai^
 ||xn--d1aihlo.xn--p1ai^
 ||xn--d1arcgaz.xn--p1ai^
+||xn--e1aaaaaboeudwddbfh1a4a5j4c.xn--p1ai^
 ||xn--e1aaalyptai8b.xn--p1ai^
 ||xn--h1aahk7ar.xn--p1ai^
 ||xn--j1aegx.xn--p1ai^
@@ -1063,6 +1063,7 @@
 ||zaim-vash.ru^
 ||zaim-vkarmane.ru^
 ||zaim-zalog.su^
+||zaim.express^
 ||zaim102.ru^
 ||zaim32.ru^
 ||zaim56.ru^
@@ -1080,7 +1081,6 @@
 ||zalog32.ru^
 ||zapzska.su^
 ||zaym-pensioneram.ru^
-||zaymdv.ru^
 ||zaymer.ru^
 ||zaymigo.com^
 ||zaymigo.ru^
