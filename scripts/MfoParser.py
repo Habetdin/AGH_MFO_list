@@ -26,6 +26,7 @@ class MfoParser:
             'lk.udbiz.ru': 'udbiz.ru',
             'new.vv174.ru': 'vv174.ru',
             'nn.ketfinans.ru': 'ketfinans.ru',
+            'old.dengisrazy.ru': 'dengisrazy.ru',
             'v.credit.ru': 'v.credit',
             'vsevolozhsk.813.ru': '813.ru',
         }

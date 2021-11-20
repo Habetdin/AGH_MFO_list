@@ -1,5 +1,5 @@
 ! Title: Microfinancing Organizations Blocklist for AdGuard Home
-! Updated: 2021-10-30T21:59:50+03:00
+! Updated: 2021-11-20T23:35:45+03:00
 ! Expires: 30 days
 ! Homepage: https://github.com/Habetdin/AGH_MFO_list
 ! License: The Unlicense
@@ -108,6 +108,7 @@
 ||business-yaransk.ru^
 ||bystrye-zajmy6.webnode.ru^
 ||capitalzaim.ru^
+||caranga.ru^
 ||carmoney.ru^
 ||carpediem51.ru^
 ||cash-u.com^
@@ -123,7 +124,6 @@
 ||centrmicrozaima.ru^
 ||centrofinans.ru^
 ||centrsaym.ru^
-||centrvk.com^
 ||centrzaymov19.ru^
 ||cfru.ru^
 ||chel-dengi.ru^
@@ -171,7 +171,6 @@
 ||delovojdvor.ru^
 ||denedinica.ru^
 ||denegnayaastreya.ru^
-||denezhki.me^
 ||denezhki.su^
 ||denezhniy-podhod.ru^
 ||denezhnoye-finansirovanie.ru^
@@ -210,6 +209,7 @@
 ||dengivp.ru^
 ||dengivsem25.com^
 ||dengizdes22.ru^
+||dengoff-mkk.ru^
 ||dengytut24.ru^
 ||denkarta.ru^
 ||denpotok.ru^
@@ -250,6 +250,7 @@
 ||ekspress.money^
 ||energofinance.ru^
 ||esid-finans.ru^
+||eskorial-r.ru^
 ||esp-autocash.ru^
 ||etimoll.ru^
 ||ex-dengi.com^
@@ -274,7 +275,6 @@
 ||financeexchange.ru^
 ||financegarant30.ru^
 ||financera.ru^
-||financialdream.ru^
 ||finans-market.info^
 ||finanskontakt.ru^
 ||finansovaya-model.ru^
@@ -330,6 +330,7 @@
 ||fondykt.ru^
 ||foperativ.ru^
 ||formap.ru^
+||fosfinance.ru^
 ||fpmp-krasnokamensk.ru^
 ||fpmp.tomsk.ru^
 ||fpmp38.com^
@@ -359,6 +360,7 @@
 ||gardarika.finance^
 ||gardarika.online^
 ||garfond.karelia.ru^
+||gazfintech.ru^
 ||gday24.ru^
 ||gfoo.biz^
 ||gfpp-kaluga.ru^
@@ -401,6 +403,7 @@
 ||irfinancemfo.ru^
 ||irkraion.ru^
 ||joy.money^
+||joymoney.su^
 ||k1business.ru^
 ||kamfond.ru^
 ||kamskfinans.ru^
@@ -551,7 +554,6 @@
 ||mkk-granit.com^
 ||mkk-grano.ru^
 ||mkk-greenfinance.ru^
-||mkk-joy.ru^
 ||mkk-kessav.ru^
 ||mkk-kiparis.ru^
 ||mkk-kombo.ru^
@@ -748,6 +750,7 @@
 ||remicapital.ru^
 ||renexpress.ru^
 ||renterfinance.ru^
+||revo.ru^
 ||rmfpp.ru^
 ||robocredit.ru^
 ||rofpmp.ru^
@@ -844,7 +847,6 @@
 ||udachniy-zaim.ru^
 ||udbiz.ru^
 ||uftr.ru^
-||understandable-money.ru^
 ||uni-dengi.ru^
 ||upandupfinance.ru^
 ||ur-mayak.ru^
@@ -867,7 +869,6 @@
 ||vashidengi.ru^
 ||vashinvestor.ru^
 ||vashki-zaim.ru^
-||vdengi.org^
 ||vdmfinans.ru^
 ||vdplatinum.ru^
 ||velkred.ru^
@@ -1001,6 +1002,7 @@
 ||xn--80agbbcdsekd0b2a3a9l.xn--p1ai^
 ||xn--80agbbebw2al4m.xn--p1ai^
 ||xn--80agbbftyk9k.xn--p1ai^
+||xn--80agbmvdne.xn--p1ai^
 ||xn--80agceqcvkmk2l.xn--p1ai^
 ||xn--80agceqooc7a5hf4a.xn--p1ai^
 ||xn--80ajiuqaln.xn--p1ai^
@@ -1025,6 +1027,7 @@
 ||xn--b1aghajmeeg2ahm8l.xn--p1ai^
 ||xn--b1aqr2a.xn--p1ai^
 ||xn--c1a7a0a.xn--p1ai^
+||xn--c1abcbme7adat7cyb7c.xn--p1ai^
 ||xn--c1abcbq0acds9j.xn--p1ai^
 ||xn--c1abcbqhymjida0md.xn--p1ai^
 ||xn--c1abcbqzddaaaxm0gxcua.xn--p1ai^
@@ -1076,7 +1079,6 @@
 ||zaimpts68.ru^
 ||zaimsakh.com^
 ||zaimy-pts.ru^
-||zaimy-reshenie.ru^
 ||zalog30.ru^
 ||zalog32.ru^
 ||zapzska.su^
