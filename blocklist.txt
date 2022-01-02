@@ -1,5 +1,5 @@
 ! Title: Microfinancing Organizations Blocklist for AdGuard Home
-! Updated: 2021-11-20T23:35:45+03:00
+! Updated: 2022-01-02T19:00:00+03:00
 ! Expires: 30 days
 ! Homepage: https://github.com/Habetdin/AGH_MFO_list
 ! License: The Unlicense
@@ -77,8 +77,10 @@
 ||avtozalogrt.ru^
 ||babki.ru^
 ||baibol.ru^
+||barents-finans.ru^
 ||bashinvest.net^
 ||bd59.ru^
+||beeon.ru^
 ||belkacash.ru^
 ||belkacredit.ru^
 ||bereg-zaimov.ru^
@@ -88,7 +90,6 @@
 ||berifast.ru^
 ||berirubli.ru^
 ||best-coin.ru^
-||bga-finance.ru^
 ||bik-ykt.ru^
 ||billum-zaim.ru^
 ||bistrii.ru^
@@ -110,7 +111,6 @@
 ||capitalzaim.ru^
 ||caranga.ru^
 ||carmoney.ru^
-||carpediem51.ru^
 ||cash-u.com^
 ||cashdrive.ru^
 ||cashmagnit.ru^
@@ -144,6 +144,7 @@
 ||cred-time.ru^
 ||creddy.ru^
 ||credit-fond.ru^
+||credit2day.ru^
 ||credit7.ru^
 ||creditabs.ru^
 ||creditcar.org^
@@ -172,7 +173,7 @@
 ||denedinica.ru^
 ||denegnayaastreya.ru^
 ||denezhki.su^
-||denezhniy-podhod.ru^
+||denezhnoe-obrashchenie.ru^
 ||denezhnoye-finansirovanie.ru^
 ||denezhnyivopros.ru^
 ||denga-pts.ru^
@@ -180,6 +181,7 @@
 ||dengi-59.ru^
 ||dengi-grad.ru^
 ||dengi-ludyam.ru^
+||dengi-na-den.ru^
 ||dengi-ontime.ru^
 ||dengi-osoto.ru^
 ||dengi-seichas.ru^
@@ -238,7 +240,6 @@
 ||dzaim.ru^
 ||dzprazvitie3.ru^
 ||e-zaim.com^
-||eastp.info^
 ||ebabos.ru^
 ||ecozaym24.ru^
 ||ecspresszaim.wix.com^
@@ -248,6 +249,7 @@
 ||ekapusta.com^
 ||ekspress-zaimy.ru^
 ||ekspress.money^
+||ekspressmoney.ru^
 ||energofinance.ru^
 ||esid-finans.ru^
 ||eskorial-r.ru^
@@ -255,12 +257,14 @@
 ||etimoll.ru^
 ||ex-dengi.com^
 ||express-finans.info^
+||expressfin.ru^
 ||expressnal.ru^
 ||expresszaimy.ru^
 ||expresszalog.ru^
 ||extra-zaim.ru^
 ||ezaem.ru^
-||fartzaim.ru^
+||ezaimi.ru^
+||fartzaim22.ru^
 ||fast-finance.ru^
 ||fasteao.ru^
 ||fastmoney.ru^
@@ -377,8 +381,12 @@
 ||gorodskoizaim.ru^
 ||gosotdelenie.ru^
 ||grande-invest.ru^
+||great-money.ru^
 ||greenmoney.ru^
+||gretafaund.ru^
 ||greytm.ru^
+||gricher.ru^
+||grumoney.ru^
 ||gurucash.ru^
 ||i-loan.ru^
 ||ic-mkk.ru^
@@ -456,6 +464,7 @@
 ||lombardini.pro^
 ||lovimani.ru^
 ||lovizaim.ru^
+||loyaln.ru^
 ||luch-mkk.ru^
 ||luvrfinance.ru^
 ||lzaim38.ru^
@@ -511,11 +520,11 @@
 ||mfoirk.ru^
 ||mfopoidem.ru^
 ||mfoprim.ru^
-||mfosterling.com^
 ||mfotvoyzaim.ru^
 ||mfovzaimno.ru^
 ||mfpmpnov.ru^
 ||micro-car.ru^
+||microbtc.ru^
 ||microdengi.info^
 ||microdengi.su^
 ||microfin44.vov.ru^
@@ -534,6 +543,7 @@
 ||migcredit.ru^
 ||migomdengirb.ru^
 ||mik-consulting.ru^
+||mika-money.ru^
 ||mikrofinans31.ru^
 ||mikrofinrk.ru^
 ||misterzaimov.ru^
@@ -548,6 +558,7 @@
 ||mkk-bmf.ru^
 ||mkk-darson.ru^
 ||mkk-demetra.ru^
+||mkk-eastpoint.ru^
 ||mkk-ef.ru^
 ||mkk-finterika.ru^
 ||mkk-gkk.ru^
@@ -562,7 +573,6 @@
 ||mkk-maestro.ru^
 ||mkk-medved.ru^
 ||mkk-orilon.ru^
-||mkk-pfk.ru^
 ||mkk-progress.ru^
 ||mkk-sakvoyazh.ru^
 ||mkk-samarkand.ru^
@@ -573,6 +583,7 @@
 ||mkk-unitedcase.ru^
 ||mkk-vi.ru^
 ||mkk-vismut.ru^
+||mkk-zadacha.ru^
 ||mkk44.ru^
 ||mkkadamas.ru^
 ||mkkaft.ru^
@@ -596,6 +607,7 @@
 ||mkkfin-pro.ru^
 ||mkkfinanced.com^
 ||mkkfinres.ru^
+||mkkflorish.ru^
 ||mkkfoksa.ru^
 ||mkkfontan.ru^
 ||mkkforsazh.ru^
@@ -608,7 +620,6 @@
 ||mkkkovcheg.ru^
 ||mkklemma.ru^
 ||mkkmagadan.ru^
-||mkkmaniplace.com^
 ||mkkmonisto.ru^
 ||mkkmsolyushnz.ru^
 ||mkkmuratoff.ru^
@@ -644,6 +655,7 @@
 ||money-shop.online^
 ||money-the-all.ucoz.ru^
 ||moneyday.su^
+||moneyearth.ru^
 ||moneyfaktura.ru^
 ||moneykapital.ru^
 ||moneyman.ru^
@@ -667,6 +679,7 @@
 ||mzaimn.wix.com^
 ||mzaimn.wixsite.com^
 ||nacfinansi.ru^
+||nadezhnii-kredit.ru^
 ||nadodeneg.ru^
 ||nadomdengi.ru^
 ||nalichnienalichnie.ru^
@@ -711,12 +724,12 @@
 ||paritetfinans.ru^
 ||parkinvest40.ru^
 ||partner-invest.ru^
-||patriotfinans.ru^
 ||paylate.ru^
 ||payps.ru^
 ||pekinrf.ru^
 ||petracredit.ru^
 ||planeta-nsk.ru^
+||planizma.ru^
 ||platiza.ru^
 ||pliskov.ru^
 ||poletfinance.ru^
@@ -728,6 +741,7 @@
 ||prilichkred.ru^
 ||primezaim.ru^
 ||priozersk813.ru^
+||privetzaim.ru^
 ||prockfinance.ru^
 ||profi-credit.ru^
 ||progresscard.ru^
@@ -750,6 +764,8 @@
 ||remicapital.ru^
 ||renexpress.ru^
 ||renterfinance.ru^
+||return.su^
+||revo-technology.ru^
 ||revo.ru^
 ||rmfpp.ru^
 ||robocredit.ru^
@@ -806,6 +822,7 @@
 ||souz-5.ru^
 ||souzmf.ru^
 ||souzshubtorg.com^
+||soyuzdengi.ru^
 ||specialmoney.ru^
 ||spfinans.ru^
 ||sro-mfo.ru^
@@ -837,7 +854,9 @@
 ||topcomfinance.ru^
 ||topolmkk.ru^
 ||triens.info^
+||trustru.ru^
 ||trustway.ru^
+||tulan.ru^
 ||tulazaim.ru^
 ||turbozaim.ru^
 ||tutmoney.ru^
@@ -898,8 +917,10 @@
 ||vzaimy.su^
 ||vzalog42.ru^
 ||vzaymcap.nethouse.ru^
+||wealthcredit.ru^
 ||web-zaim.ru^
 ||webbankir.com^
+||webbankir.ru^
 ||webcash.su^
 ||webzaim.ru^
 ||wsgh.ru^
@@ -918,6 +939,7 @@
 ||xn----7sbbngcm2be.xn--p1ai^
 ||xn----7sbbofnpybcjx0mg.xn--p1ai^
 ||xn----7sbbzls4ci4d.xn--p1ai^
+||xn----7sbgbbfhzbt3ata0aqkg2o.xn--p1ai^
 ||xn----7sbhredffenfuhti6o.xn--p1ai^
 ||xn----7sbkddcrfusde8j9bu.xn--p1ai^
 ||xn----7sbqamwie8amr.xn--p1ai^
@@ -933,6 +955,7 @@
 ||xn----btbh0aldcukw1k.xn--p1ai^
 ||xn----dtbibvam9adk.xn--p1ai^
 ||xn----etbceq2ay6a8d.xn--p1ai^
+||xn----ftbccca6cdxt5b.xn--p1ai^
 ||xn----ftbeudrmabgi1a.xn--p1ai^
 ||xn----gtbbcbtlvikpgnjf4ki.xn--p1ai^
 ||xn----gtbcnbhlxnxbcaa2kua5c.xn--p1ai^
@@ -968,6 +991,7 @@
 ||xn--80aae3af7av6a7a.xn--p1ai^
 ||xn--80aaebntc2ahms2a9c3gi.xn--p1ai^
 ||xn--80aaegdbcf2a5bh4p.xn--p1ai^
+||xn--80aaejr1c.xn--p1ai^
 ||xn--80aaelafkgmg0a.xn--p1ai^
 ||xn--80aafkpbc8abbdjufnk9a5a2q.xn--p1ai^
 ||xn--80aaflaj4cik1agpgwi.xn--p1ai^
@@ -1021,6 +1045,7 @@
 ||xn--90aebbebw9ade7czfra.xn--p1ai^
 ||xn--90aecend7av7dtcr.xn--p1ai^
 ||xn--90aeobjbf.xn--p1ai^
+||xn--90aggfb2aw2a.xn--p1ai^
 ||xn--90arag7bm.xn--p1ai^
 ||xn--b1abcecq4ad4a0jrb.xn--p1ai^
 ||xn--b1aelg.xn--p1ai^
@@ -1034,6 +1059,7 @@
 ||xn--c1abdbalf9addlw3g3ck2c.xn--p1ai^
 ||xn--c1abdnxcgbpj2euc.xn--p1ai^
 ||xn--c1ajbkjgb7b2g.xn--p1ai^
+||xn--c1aveabcfil.xn--p1ai^
 ||xn--d1abaandeix8aht.xn--p1ai^
 ||xn--d1abanh2ajeq8a.xn--p1ai^
 ||xn--d1abkfa0br6b5b.xn--p1ai^
@@ -1075,13 +1101,13 @@
 ||zaimdam.ru^
 ||zaimexpress.ru^
 ||zaimi35.ru^
+||zaimond.ru^
 ||zaimpartner.ru^
 ||zaimpts68.ru^
 ||zaimsakh.com^
 ||zaimy-pts.ru^
 ||zalog30.ru^
 ||zalog32.ru^
-||zapzska.su^
 ||zaym-pensioneram.ru^
 ||zaymer.ru^
 ||zaymigo.com^
