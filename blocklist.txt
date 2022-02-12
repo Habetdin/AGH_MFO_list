@@ -1,5 +1,5 @@
 ! Title: Microfinancing Organizations Blocklist for AdGuard Home
-! Updated: 2022-01-02T19:00:00+03:00
+! Updated: 2022-02-12T15:15:00+03:00
 ! Expires: 30 days
 ! Homepage: https://github.com/Habetdin/AGH_MFO_list
 ! License: The Unlicense
@@ -30,8 +30,6 @@
 ||aktiv-mani.ru^
 ||aktivdengi.com^
 ||alanskiyezaymy.ru^
-||alenamizaeva.wix.com^
-||alenamizaeva.wixsite.com^
 ||alexum.ru^
 ||alizaim.ru^
 ||alliancecreditnn.ru^
@@ -43,7 +41,6 @@
 ||amigo-zaym.ru^
 ||amigozaim.ru^
 ||ankfinans.ru^
-||ante-invest.ru^
 ||anturium.su^
 ||apmb.org^
 ||apollon-zaym.ru^
@@ -59,6 +56,7 @@
 ||asiacredit.online^
 ||asiacredit.ru^
 ||asriev.ru^
+||astalavista-mkk.ru^
 ||astfin.ru^
 ||atmkredit.ru^
 ||atzaim.blogspot.com^
@@ -79,6 +77,7 @@
 ||baibol.ru^
 ||barents-finans.ru^
 ||bashinvest.net^
+||batareyka24.ru^
 ||bd59.ru^
 ||beeon.ru^
 ||belkacash.ru^
@@ -108,6 +107,7 @@
 ||business-nvkb.ru^
 ||business-yaransk.ru^
 ||bystrye-zajmy6.webnode.ru^
+||capitalina.ru^
 ||capitalzaim.ru^
 ||caranga.ru^
 ||carmoney.ru^
@@ -145,6 +145,7 @@
 ||creddy.ru^
 ||credit-fond.ru^
 ||credit2day.ru^
+||credit365.ru^
 ||credit7.ru^
 ||creditabs.ru^
 ||creditcar.org^
@@ -152,6 +153,7 @@
 ||creditcassa-vyatka.ru^
 ||credithome40.com^
 ||creditoff.org^
+||creditonication.ru^
 ||creditplus.ru^
 ||creditronic.ru^
 ||creditsmile.ru^
@@ -172,6 +174,7 @@
 ||delovojdvor.ru^
 ||denedinica.ru^
 ||denegnayaastreya.ru^
+||deneshka.ru^
 ||denezhki.su^
 ||denezhnoe-obrashchenie.ru^
 ||denezhnoye-finansirovanie.ru^
@@ -180,12 +183,12 @@
 ||denga.ru^
 ||dengi-59.ru^
 ||dengi-grad.ru^
+||dengi-ludyam.com^
 ||dengi-ludyam.ru^
 ||dengi-na-den.ru^
 ||dengi-ontime.ru^
 ||dengi-osoto.ru^
 ||dengi-seichas.ru^
-||dengi-v-dolg.com^
 ||dengi-vsem.com^
 ||dengi003.ru^
 ||dengi34.info^
@@ -225,16 +228,19 @@
 ||dns-finance.ru^
 ||do-po.ru^
 ||doavansa.com^
+||dobro-kassa.ru^
 ||dobrokassa.com^
 ||dobrozaim.ru^
 ||doktorrubl.ru^
 ||domamoney.ru^
 ||dopoluchkino.ru^
+||doszaim.ru^
 ||doveritel29.ru^
 ||dozarplati.com^
 ||dozarplati.su^
 ||dragon29.ru^
 ||dsz-mfo.ru^
+||dvd-nsk.ru^
 ||dvina-mikrofinans.ru^
 ||dvmcredit.ru^
 ||dzaim.ru^
@@ -283,6 +289,7 @@
 ||finanskontakt.ru^
 ||finansovaya-model.ru^
 ||finansoviy-soyuznik.ru^
+||finansplusgroop.ru^
 ||finansresh.ru^
 ||finansterra.ru^
 ||finansvest.ru^
@@ -293,9 +300,11 @@
 ||finec.net^
 ||finemer.ru^
 ||finetica.com^
+||finfive.ru^
 ||fingam.ru^
 ||fingen.online^
 ||fininteres.ru^
+||finkp.ru^
 ||finmoll.ru^
 ||finoazis.ru^
 ||finpotoc.ru^
@@ -304,7 +313,6 @@
 ||finrox.ru^
 ||finroznica.ru^
 ||finterritory.ru^
-||finuslovia.ru^
 ||finx.com.ru^
 ||finza.ru^
 ||fkdp.ru^
@@ -313,6 +321,7 @@
 ||fkspchr.ru^
 ||flipcredit.ru^
 ||fmco.ru^
+||fmf45.ru^
 ||fmf72.ru^
 ||fmkk.ru^
 ||fmsmpkbr.ru^
@@ -374,6 +383,7 @@
 ||glavpotrebcredit.ru^
 ||globfinaktiv.ru^
 ||gmzaim.ru^
+||goldenantilopa.ru^
 ||goldversion.ru^
 ||good-money.info^
 ||goodman24.ru^
@@ -446,7 +456,6 @@
 ||kredov.wixsite.com^
 ||krk-finance.ru^
 ||ksfmr.ru^
-||kupi-ne-kopi.ru^
 ||kviku.ru^
 ||l-dengi74.ru^
 ||lavmoney.ru^
@@ -509,6 +518,7 @@
 ||mfo-urist.nethouse.ru^
 ||mfo-urist.ru^
 ||mfo24.com^
+||mfo46.ru^
 ||mfoagat.ru^
 ||mfobrilliant.ru^
 ||mfocmf.ru^
@@ -546,6 +556,7 @@
 ||mika-money.ru^
 ||mikrofinans31.ru^
 ||mikrofinrk.ru^
+||mimilaim.ru^
 ||misterzaimov.ru^
 ||mixzaim.ru^
 ||mk-adk.ru^
@@ -620,6 +631,7 @@
 ||mkkkovcheg.ru^
 ||mkklemma.ru^
 ||mkkmagadan.ru^
+||mkkmaniplace.com^
 ||mkkmonisto.ru^
 ||mkkmsolyushnz.ru^
 ||mkkmuratoff.ru^
@@ -639,6 +651,7 @@
 ||mkkvariofinans.ru^
 ||mkkverhneudinsk.ru^
 ||mkkvershinaaltaya.ru^
+||mkkvibor.ru^
 ||mkkvzlet.ru^
 ||mkkyalta.ru^
 ||mkkyarilo.ru^
@@ -654,6 +667,7 @@
 ||money-future.com^
 ||money-shop.online^
 ||money-the-all.ucoz.ru^
+||money22.ru^
 ||moneyday.su^
 ||moneyearth.ru^
 ||moneyfaktura.ru^
@@ -678,7 +692,6 @@
 ||mytenzor.ru^
 ||mzaimn.wix.com^
 ||mzaimn.wixsite.com^
-||nacfinansi.ru^
 ||nadezhnii-kredit.ru^
 ||nadodeneg.ru^
 ||nadomdengi.ru^
@@ -688,6 +701,7 @@
 ||nalichnoeplus.com^
 ||nalichnoeplus.ru^
 ||nalras.ru^
+||narod-zaym.ru^
 ||ncpp.ru^
 ||ncrltd.ru^
 ||ncwltd.ru^
@@ -695,6 +709,8 @@
 ||nevsky-mfo.ru^
 ||nft-plus.ru^
 ||nordf.ru^
+||north-coin.ru^
+||nuzencredit.ru^
 ||nyzhnodengi.ru^
 ||olberi.ru^
 ||oliva-21.ru^
@@ -721,11 +737,11 @@
 ||panteonkapital.ru^
 ||papafinance.ru^
 ||papazaim.com^
-||paritetfinans.ru^
 ||parkinvest40.ru^
 ||partner-invest.ru^
 ||paylate.ru^
 ||payps.ru^
+||paytrack.ru^
 ||pekinrf.ru^
 ||petracredit.ru^
 ||planeta-nsk.ru^
@@ -774,6 +790,7 @@
 ||rostdela.ru^
 ||rostfinance.com^
 ||roszaym-credit.ru^
+||rovanie.ru^
 ||rrapp.ru^
 ||rubberi.ru^
 ||rubinfinans.ru^
@@ -797,6 +814,7 @@
 ||sectorzaimov.ru^
 ||semdengi.ru^
 ||semerochka.org^
+||severtrast.ru^
 ||seyf18.ru^
 ||sf17.my1.ru^
 ||sfgroup.ru^
@@ -854,6 +872,7 @@
 ||topcomfinance.ru^
 ||topolmkk.ru^
 ||triens.info^
+||triens.su^
 ||trustru.ru^
 ||trustway.ru^
 ||tulan.ru^
@@ -900,8 +919,6 @@
 ||vizardmkk.ru^
 ||vlad-capital.ru^
 ||volga-kapital.nethouse.ru^
-||volgota.wix.com^
-||volgota.wixsite.com^
 ||vpcg.ru^
 ||vpfond.ru^
 ||vrchk.com^
@@ -911,6 +928,7 @@
 ||vsem-dengi.ru^
 ||vsemdengi.ru^
 ||vsempotreb.ru^
+||vseprozaimy.ru^
 ||vv174.ru^
 ||vyruchaidengi.ru^
 ||vzaim1.ru^
@@ -924,9 +942,11 @@
 ||webcash.su^
 ||webzaim.ru^
 ||wsgh.ru^
+||xn-----elcceecz4bdr5n.xn--p1ai^
 ||xn-----flcmaoejablhjp5byh8e.xn--p1ai^
 ||xn-----klccbctlcp5aendfedaz0s.xn--p1ai^
 ||xn-----klcccahrh5addcocboh1b7e1d.xn--p1ai^
+||xn-----nlckdhevmdh3b.xn--p1ai^
 ||xn----7sbabhcuavgv3abosbqlhxz4w.xn--p1ai^
 ||xn----7sbabihggcnu3aofmxr9txb.xn--p1ai^
 ||xn----7sbakydwkd2aycbp8o.xn--p1ai^
@@ -937,7 +957,7 @@
 ||xn----7sbbivnvt9a.xn--p1ai^
 ||xn----7sbbjfzpbmlemxdmdu2u.xn--p1ai^
 ||xn----7sbbngcm2be.xn--p1ai^
-||xn----7sbbofnpybcjx0mg.xn--p1ai^
+||xn----7sbboqkdybcjx0m.xn--p1ai^
 ||xn----7sbbzls4ci4d.xn--p1ai^
 ||xn----7sbgbbfhzbt3ata0aqkg2o.xn--p1ai^
 ||xn----7sbhredffenfuhti6o.xn--p1ai^
@@ -1018,6 +1038,7 @@
 ||xn--80addfetlf0ayz.xn--p1ai^
 ||xn--80addvmpc5c.xn--p1ai^
 ||xn--80adfdae2cb2ajdme8i.xn--p1ai^
+||xn--80adijlskp.xn--p1ai^
 ||xn--80adpaeirel5l.xn--p1ai^
 ||xn--80adpdhsr.xn--p1ai^
 ||xn--80adsbgcoj.xn--p1ai^
@@ -1034,6 +1055,7 @@
 ||xn--80akilidh4e.xn--p1ai^
 ||xn--80ancahs3aj.xn--p1ai^
 ||xn--80ancgckfmr.com^
+||xn--80ancgpo8c.xn--p1ai^
 ||xn--80anedp.xn--p1ai^
 ||xn--80anhm9cxa.xn--p1ai^
 ||xn--80anhm9e.xn--p1ai^
